@@ -5,8 +5,11 @@ This is a simple web-based dice game that simulates rolling two dice and announc
 ## 📁 Project Structure
 Dicee/
 ├── dicee.html # Main HTML file
+
 ├── styles.css # Styling using CSS
+
 ├── script.js # Game logic with JavaScript
+
 └── images/ # Folder containing dice images (dice1.png to dice6.png)
 
 
