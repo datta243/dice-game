@@ -3,7 +3,7 @@
 This is a simple web-based dice game that simulates rolling two dice and announces the winner between Player 1 and Player 2. Every time you refresh the page, the dice images update randomly and display the result.
 
 ## 📁 Project Structure
-Dicee/
+
 ├── dicee.html # Main HTML file
 
 ├── styles.css # Styling using CSS
